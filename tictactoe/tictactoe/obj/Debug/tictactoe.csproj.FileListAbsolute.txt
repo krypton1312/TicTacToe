@@ -1,0 +1,10 @@
+D:\Учеба\КРОК\3 курс КИРИЧЕНКО\c#\tictactoe\tictactoe\bin\Debug\tictactoe.exe.config
+D:\Учеба\КРОК\3 курс КИРИЧЕНКО\c#\tictactoe\tictactoe\bin\Debug\tictactoe.exe
+D:\Учеба\КРОК\3 курс КИРИЧЕНКО\c#\tictactoe\tictactoe\bin\Debug\tictactoe.pdb
+D:\Учеба\КРОК\3 курс КИРИЧЕНКО\c#\tictactoe\tictactoe\obj\Debug\tictactoe.csproj.AssemblyReference.cache
+D:\Учеба\КРОК\3 курс КИРИЧЕНКО\c#\tictactoe\tictactoe\obj\Debug\tictactoe.Form1.resources
+D:\Учеба\КРОК\3 курс КИРИЧЕНКО\c#\tictactoe\tictactoe\obj\Debug\tictactoe.Properties.Resources.resources
+D:\Учеба\КРОК\3 курс КИРИЧЕНКО\c#\tictactoe\tictactoe\obj\Debug\tictactoe.csproj.GenerateResource.cache
+D:\Учеба\КРОК\3 курс КИРИЧЕНКО\c#\tictactoe\tictactoe\obj\Debug\tictactoe.csproj.CoreCompileInputs.cache
+D:\Учеба\КРОК\3 курс КИРИЧЕНКО\c#\tictactoe\tictactoe\obj\Debug\tictactoe.exe
+D:\Учеба\КРОК\3 курс КИРИЧЕНКО\c#\tictactoe\tictactoe\obj\Debug\tictactoe.pdb
